@@ -1,3 +1,13 @@
+// Nurdaulet Kaishibayev
+
+// Jeffrey Jiang
+
+//1. The notes about the super() helped with the classwork because I initially didn't
+//   understand the syntax and the purpose without a clear example. Also, I learned how
+//   and when to use this.
+
+//2. CLASSWORK 100% Completed
+
 public class Driver {
 
   public static void main(String[] args) {
